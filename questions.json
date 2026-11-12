@@ -538,6 +538,545 @@
           "id": 42
         }
       ]
+    },
+    {
+      "date": "2026-11-15",
+      "questions": [
+        {
+          "question": "\"यह कदंब का पेड़ अगर माँ होता यमुना तीरे।\nमैं भी उस पर बैठ कन्हैया बनता धीरे-धीरे॥\"\n\nये पंक्तियाँ किस कवि की हैं?",
+          "option_1": "सुभद्रा कुमारी चौहान",
+          "option_2": "महादेवी वर्मा",
+          "option_3": "मैथिलीशरण गुप्त",
+          "option_4": "सुमित्रानंदन पंत",
+          "correct_answer": 1,
+          "category": "कवि पहचानें",
+          "note": "सुभद्रा कुमारी चौहान की प्रसिद्ध कविता \"यह कदंब का पेड़\"।",
+          "source": "https://www.kavitakosh.org/kk/%E0%A4%AF%E0%A4%B9_%E0%A4%95%E0%A4%A6%E0%A4%AE%E0%A5%8D%E0%A4%AC_%E0%A4%95%E0%A4%BE_%E0%A4%AA%E0%A5%87%E0%A4%A1%E0%A4%BC_/_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%80_%E0%A4%9A%E0%A5%8C%E0%A4%B9%E0%A4%BE%E0%A4%A8",
+          "id": 43
+        },
+        {
+          "question": "\"जीवन की आपाधापी में कब वक्त मिला,\nकुछ देर कहीं पर बैठ कभी यह सोच सकूँ॥\"\n\nये पंक्तियाँ किस कवि की हैं?",
+          "option_1": "सूर्यकांत त्रिपाठी 'निराला'",
+          "option_2": "हरिवंश राय बच्चन",
+          "option_3": "अज्ञेय",
+          "option_4": "जयशंकर प्रसाद",
+          "correct_answer": 2,
+          "category": "कवि पहचानें",
+          "note": "हरिवंश राय बच्चन की कविता \"जीवन की आपाधापी में\"।",
+          "source": "https://www.anubhuti-hindi.org/gauravgram/bachchan/jeevan.htm",
+          "id": 44
+        },
+        {
+          "question": "\"अब मंदिर में इष्ट अकेला,\nइसे अजिर का शून्य गलाने को गलने दो!\"\n\nये पंक्तियाँ किस कवि की हैं?",
+          "option_1": "सुभद्रा कुमारी चौहान",
+          "option_2": "मीराबाई",
+          "option_3": "महादेवी वर्मा",
+          "option_4": "सुमित्रानंदन पंत",
+          "correct_answer": 3,
+          "category": "कवि पहचानें",
+          "note": "महादेवी वर्मा का गीत \"यह मंदिर का दीप\"।",
+          "source": "https://www.hindwi.org/geet/ye-mandir-ka-deep-ise-niraw-jalne-do-mahadevi-varma-geet",
+          "id": 45
+        },
+        {
+          "question": "\"बुरा जो देखन मैं चला, बुरा न मिलिया कोय।\nजो दिल खोजा आपना, मुझसे बुरा न कोय॥\"\n\nयह दोहा किसका है?",
+          "option_1": "रहीम",
+          "option_2": "तुलसीदास",
+          "option_3": "सूरदास",
+          "option_4": "कबीर",
+          "correct_answer": 4,
+          "category": "दोहा पहचानें",
+          "note": "कबीर का प्रसिद्ध दोहा।",
+          "source": "https://kabirkedohe.in/doha/buraa-jo-dekhana-main-chalaa-buraa-na.html",
+          "id": 46
+        },
+        {
+          "question": "'साकेत' किस कवि का महाकाव्य है?",
+          "option_1": "जयशंकर प्रसाद",
+          "option_2": "मैथिलीशरण गुप्त",
+          "option_3": "सुमित्रानंदन पंत",
+          "option_4": "रामधारी सिंह 'दिनकर'",
+          "correct_answer": 2,
+          "category": "रचना पहचानें",
+          "note": "मैथिलीशरण गुप्त का प्रसिद्ध महाकाव्य, उर्मिला के विरह पर आधारित।",
+          "source": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%BE%E0%A4%95%E0%A5%87%E0%A4%A4",
+          "id": 47
+        },
+        {
+          "question": "'रश्मिरथी' किस कवि का खंडकाव्य है?",
+          "option_1": "रामधारी सिंह 'दिनकर'",
+          "option_2": "जयशंकर प्रसाद",
+          "option_3": "मैथिलीशरण गुप्त",
+          "option_4": "माखनलाल चतुर्वेदी",
+          "correct_answer": 1,
+          "category": "रचना पहचानें",
+          "note": "रामधारी सिंह 'दिनकर' का प्रसिद्ध खंडकाव्य।",
+          "source": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%B6%E0%A5%8D%E0%A4%AE%E0%A4%BF%E0%A4%B0%E0%A4%A5%E0%A5%80_%28%E0%A4%96%E0%A4%82%E0%A4%A1_%E0%A4%95%E0%A4%BE%E0%A4%B5%E0%A5%8D%E0%A4%AF%29",
+          "id": 48
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "questions": [
+        {
+          "question": "\"वह आता—\nदो टूक कलेजे को करता, पछताता पथ पर आता।\"\n\nये पंक्तियाँ किस कवि की हैं?",
+          "option_1": "अज्ञेय",
+          "option_2": "सूर्यकांत त्रिपाठी 'निराला'",
+          "option_3": "मुक्तिबोध",
+          "option_4": "दुष्यंत कुमार",
+          "correct_answer": 2,
+          "category": "कवि पहचानें",
+          "note": "निराला की कविता \"भिक्षुक\"।",
+          "source": "https://www.hindwi.org/kavita/bhikshuk-surykant-tripathi-nirala-kavita",
+          "id": 49
+        },
+        {
+          "question": "\"मैया मैं नहि माखन खायो।\nभोर भयो गैयन के पाछे, मधुबन मोहि पठायो॥\"\n\nयह पद किस भक्त कवि का है?",
+          "option_1": "कबीर",
+          "option_2": "रहीम",
+          "option_3": "सूरदास",
+          "option_4": "तुलसीदास",
+          "correct_answer": 3,
+          "category": "कवि पहचानें",
+          "note": "सूरदास का प्रसिद्ध पद।",
+          "source": "https://www.hindwi.org/pad/maiya-main-nahin-makhan-khayo-surdas-pad",
+          "id": 50
+        },
+        {
+          "question": "\"वही मनुष्य है कि जो मनुष्य के लिए मरे॥\"\n\nयह पंक्ति किस कवि की है?",
+          "option_1": "रामधारी सिंह 'दिनकर'",
+          "option_2": "माखनलाल चतुर्वेदी",
+          "option_3": "हरिवंश राय बच्चन",
+          "option_4": "मैथिलीशरण गुप्त",
+          "correct_answer": 4,
+          "category": "कवि पहचानें",
+          "note": "मैथिलीशरण गुप्त की कविता \"मनुष्यता\"।",
+          "source": "https://www.hindwi.org/kavita/manushyata-maithilisharan-gupt-kavita",
+          "id": 51
+        },
+        {
+          "question": "\"रहिमन पानी राखिये, बिनु पानी सब सून॥\"\n\nयह दोहा किसका है?",
+          "option_1": "रहीम",
+          "option_2": "कबीर",
+          "option_3": "तुलसीदास",
+          "option_4": "सूरदास",
+          "correct_answer": 1,
+          "category": "दोहा पहचानें",
+          "note": "रहीम का प्रसिद्ध दोहा।",
+          "source": "https://sufinama.org/dohe/raheem-dohe-234?lang=hi",
+          "id": 52
+        },
+        {
+          "question": "'आँसू' किस कवि का काव्य संग्रह है?",
+          "option_1": "सुमित्रानंदन पंत",
+          "option_2": "महादेवी वर्मा",
+          "option_3": "जयशंकर प्रसाद",
+          "option_4": "अज्ञेय",
+          "correct_answer": 3,
+          "category": "रचना पहचानें",
+          "note": "जयशंकर प्रसाद का प्रसिद्ध काव्य संग्रह।",
+          "source": "https://hi.wikipedia.org/wiki/%E0%A4%86%E0%A4%81%E0%A4%B8%E0%A5%82_%28%E0%A4%95%E0%A4%BE%E0%A4%B5%E0%A5%8D%E0%A4%AF%29",
+          "id": 53
+        },
+        {
+          "question": "'मधुकलश' किस कवि का काव्य संग्रह है?",
+          "option_1": "जयशंकर प्रसाद",
+          "option_2": "हरिवंश राय बच्चन",
+          "option_3": "सूर्यकांत त्रिपाठी 'निराला'",
+          "option_4": "सुमित्रानंदन पंत",
+          "correct_answer": 2,
+          "category": "रचना पहचानें",
+          "note": "हरिवंश राय बच्चन का प्रसिद्ध काव्य संग्रह।",
+          "source": "https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A4%A7%E0%A5%81%E0%A4%95%E0%A4%B2%E0%A4%B6",
+          "id": 54
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "questions": [
+        {
+          "question": "\"मेरे हार गए सब जाने-माने कलावंत,\nसबकी विद्या हो गई अकारथ, दर्प चूर...\"\n\nये पंक्तियाँ किस कवि की हैं?",
+          "option_1": "अज्ञेय",
+          "option_2": "सूर्यकांत त्रिपाठी 'निराला'",
+          "option_3": "मुक्तिबोध",
+          "option_4": "धर्मवीर भारती",
+          "correct_answer": 1,
+          "category": "कवि पहचानें",
+          "note": "अज्ञेय की कविता \"असाध्य वीणा\"।",
+          "source": "https://www.hindwi.org/kavita/asadhy-wina-agyeya-kavita",
+          "id": 55
+        },
+        {
+          "question": "\"वीरों का कैसा हो बसंत,\nआ रही हिमालय से पुकार है, उदधि गजरता बार-बार॥\"\n\nये पंक्तियाँ किस कवि की हैं?",
+          "option_1": "रामधारी सिंह 'दिनकर'",
+          "option_2": "माखनलाल चतुर्वेदी",
+          "option_3": "सुभद्रा कुमारी चौहान",
+          "option_4": "मैथिलीशरण गुप्त",
+          "correct_answer": 3,
+          "category": "कवि पहचानें",
+          "note": "सुभद्रा कुमारी चौहान की कविता \"वीरों का कैसा हो वसंत\"।",
+          "source": "https://www.anubhuti-hindi.org/sankalan/vasanti_hava/veeronka.htm",
+          "id": 56
+        },
+        {
+          "question": "\"तुम्हें अरुण-पंख तरुण-किरण खड़ी खोलती है द्वार—\nजागो फिर एक बार!\"\n\nये पंक्तियाँ किस कवि की हैं?",
+          "option_1": "सुमित्रानंदन पंत",
+          "option_2": "हरिवंश राय बच्चन",
+          "option_3": "अज्ञेय",
+          "option_4": "सूर्यकांत त्रिपाठी 'निराला'",
+          "correct_answer": 4,
+          "category": "कवि पहचानें",
+          "note": "निराला की कविता \"जागो फिर एक बार\"।",
+          "source": "https://www.anubhuti-hindi.org/gauravgram/nirala/jaago.htm",
+          "id": 57
+        },
+        {
+          "question": "\"जो रहीम उत्तम प्रकृति, का करि सकत कुसंग॥\"\n\nयह दोहा किसका है?",
+          "option_1": "कबीर",
+          "option_2": "रहीम",
+          "option_3": "तुलसीदास",
+          "option_4": "रैदास",
+          "correct_answer": 2,
+          "category": "दोहा पहचानें",
+          "note": "रहीम का प्रसिद्ध दोहा।",
+          "source": "https://www.hindwi.org/poets/rahim/dohe",
+          "id": 58
+        },
+        {
+          "question": "'चिदंबरा' किस कवि की रचना है?",
+          "option_1": "सुमित्रानंदन पंत",
+          "option_2": "अज्ञेय",
+          "option_3": "जयशंकर प्रसाद",
+          "option_4": "सूर्यकांत त्रिपाठी 'निराला'",
+          "correct_answer": 1,
+          "category": "रचना पहचानें",
+          "note": "सुमित्रानंदन पंत की प्रकृति-चेतना से ओत-प्रोत रचना।",
+          "source": "https://hi.wikipedia.org/wiki/%E0%A4%9A%E0%A4%BF%E0%A4%A6%E0%A4%82%E0%A4%AC%E0%A4%B0%E0%A4%BE",
+          "id": 59
+        },
+        {
+          "question": "'सूरसागर' किस भक्त कवि की रचना है?",
+          "option_1": "तुलसीदास",
+          "option_2": "मीराबाई",
+          "option_3": "कबीर",
+          "option_4": "सूरदास",
+          "correct_answer": 4,
+          "category": "रचना पहचानें",
+          "note": "सूरदास के कृष्ण-भक्ति पदों का प्रसिद्ध संग्रह।",
+          "source": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%82%E0%A4%B0%E0%A4%B8%E0%A4%BE%E0%A4%97%E0%A4%B0",
+          "id": 60
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "questions": [
+        {
+          "question": "\"जब नाश मनुज पर छाता है,\nपहले विवेक मर जाता है।\"\n\nये पंक्तियाँ किस कवि की हैं?",
+          "option_1": "मैथिलीशरण गुप्त",
+          "option_2": "रामधारी सिंह 'दिनकर'",
+          "option_3": "हरिवंश राय बच्चन",
+          "option_4": "गोपालदास 'नीरज'",
+          "correct_answer": 2,
+          "category": "कवि पहचानें",
+          "note": "दिनकर की \"रश्मिरथी\" से \"कृष्ण की चेतावनी\"।",
+          "source": "https://www.kavitakosh.org/kk/%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A3_%E0%A4%95%E0%A5%80_%E0%A4%9A%E0%A5%87%E0%A4%A4%E0%A4%BE%E0%A4%B5%E0%A4%A8%E0%A5%80_/_%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A5%80_%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9_%22%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A4%95%E0%A4%B0%22",
+          "id": 61
+        },
+        {
+          "question": "\"मिट्टी का तन, मस्ती का मन,\nक्षण भर जीवन—मेरा परिचय!\"\n\nये पंक्तियाँ किस कवि की हैं?",
+          "option_1": "सूर्यकांत त्रिपाठी 'निराला'",
+          "option_2": "दुष्यंत कुमार",
+          "option_3": "गोपालदास 'नीरज'",
+          "option_4": "हरिवंश राय बच्चन",
+          "correct_answer": 4,
+          "category": "कवि पहचानें",
+          "note": "हरिवंश राय बच्चन की कविता \"मधुबाला\" से।",
+          "source": "https://hindi-kavita.com/HindiMadhubalaBachchan.php",
+          "id": 62
+        },
+        {
+          "question": "\"मेरे तो गिरधर गोपाल दूसरो न कोई।\nजाके सिर है मोरपखा मेरो पति सोई॥\"\n\nयह पद किस संत कवयित्री का है?",
+          "option_1": "मीराबाई",
+          "option_2": "सहजोबाई",
+          "option_3": "दयाबाई",
+          "option_4": "सुभद्रा कुमारी चौहान",
+          "correct_answer": 1,
+          "category": "कवि पहचानें",
+          "note": "मीराबाई का प्रसिद्ध पद।",
+          "source": "https://www.kavitakosh.org/kk/%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A5%87_%E0%A4%A4%E0%A5%8B_%E0%A4%97%E0%A4%BF%E0%A4%B0%E0%A4%A7%E0%A4%B0_%E0%A4%97%E0%A5%8B%E0%A4%AA%E0%A4%BE%E0%A4%B2_%E0%A4%A6%E0%A5%82%E0%A4%B8%E0%A4%B0%E0%A5%8B_%E0%A4%A8_%E0%A4%95%E0%A5%8B%E0%A4%88_/_%E0%A4%AE%E0%A5%80%E0%A4%B0%E0%A4%BE%E0%A4%AC%E0%A4%BE%E0%A4%88",
+          "id": 63
+        },
+        {
+          "question": "\"मंगल भवन अमंगल हारी।\nउमा सहित जेहि जपत पुरारी॥\"\n\nयह चौपाई किसकी है?",
+          "option_1": "सूरदास",
+          "option_2": "कबीर",
+          "option_3": "तुलसीदास",
+          "option_4": "रहीम",
+          "correct_answer": 3,
+          "category": "कवि पहचानें",
+          "note": "तुलसीदास की \"रामचरितमानस\", सुंदरकांड से।",
+          "source": "https://avadhya.in/content/chaupai/5929-mangala-bhavana-amangala-hari-uma-sahita-jehi-japata-purari",
+          "id": 64
+        },
+        {
+          "question": "'विनय पत्रिका' किस कवि की रचना है?",
+          "option_1": "सूरदास",
+          "option_2": "तुलसीदास",
+          "option_3": "कबीर",
+          "option_4": "रहीम",
+          "correct_answer": 2,
+          "category": "रचना पहचानें",
+          "note": "तुलसीदास द्वारा रचित प्रसिद्ध भजन-संग्रह।",
+          "source": "https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%AF%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE",
+          "id": 65
+        },
+        {
+          "question": "'परिमल' किस कवि का काव्य संग्रह है?",
+          "option_1": "जयशंकर प्रसाद",
+          "option_2": "सुमित्रानंदन पंत",
+          "option_3": "अज्ञेय",
+          "option_4": "सूर्यकांत त्रिपाठी 'निराला'",
+          "correct_answer": 4,
+          "category": "रचना पहचानें",
+          "note": "निराला का प्रसिद्ध काव्य संग्रह।",
+          "source": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A4%B2",
+          "id": 66
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "questions": [
+        {
+          "question": "\"मैं नीर भरी दुख की बदली!\nस्पंदन में चिर निस्पंद बसा, क्रंदन में आहत विश्व हँसा॥\"\n\nये पंक्तियाँ किस कवि की हैं?",
+          "option_1": "महादेवी वर्मा",
+          "option_2": "सुभद्रा कुमारी चौहान",
+          "option_3": "सुमित्रानंदन पंत",
+          "option_4": "मैथिलीशरण गुप्त",
+          "correct_answer": 1,
+          "category": "कवि पहचानें",
+          "note": "महादेवी वर्मा का प्रसिद्ध गीत।",
+          "source": "https://anubhuti-hindi.org/gauravgram/mahadevi/maineerbhari.htm",
+          "id": 67
+        },
+        {
+          "question": "\"भाषण दो, भई, भाषण दो,\nहर गली, सड़क, चौराहे पर भाषण की गंगा बहती है...\"\n\nये पंक्तियाँ किस कवि की हैं?",
+          "option_1": "हरिवंश राय बच्चन",
+          "option_2": "गोपाल प्रसाद व्यास",
+          "option_3": "गोपालदास 'नीरज'",
+          "option_4": "नागार्जुन",
+          "correct_answer": 2,
+          "category": "कवि पहचानें",
+          "note": "गोपाल प्रसाद व्यास की हास्य-व्यंग्य कविता \"भई भाषण दो\"।",
+          "source": "https://www.geeta-kavita.com/poems/old-classic-poems/bhai-bhashan-do-gopal-prasad-vyas/",
+          "id": 68
+        },
+        {
+          "question": "\"लब पे आती है दुआ बन के तमन्ना मेरी॥\"\n\nयह पंक्ति किस शायर की है?",
+          "option_1": "मीरज़ा ग़ालिब",
+          "option_2": "फ़ैज़ अहमद फ़ैज़",
+          "option_3": "साहिर लुधियानवी",
+          "option_4": "अल्लामा इक़बाल",
+          "correct_answer": 4,
+          "category": "कवि पहचानें",
+          "note": "इक़बाल की प्रसिद्ध नज़्म \"बच्चे की दुआ\"।",
+          "source": "https://www.rekhta.org/nazms/bachche-kii-duaa-lab-pe-aatii-hai-duaa-ban-ke-tamannaa-merii-allama-iqbal-nazms-1?lang=hi",
+          "id": 69
+        },
+        {
+          "question": "\"झीनी झीनी बीनी चदरिया॥\nकाहे कै ताना काहे कै भरनी, कौन तार से बीनी चदरिया॥\"\n\nये पंक्तियाँ किस संत कवि की हैं?",
+          "option_1": "रैदास",
+          "option_2": "दादू दयाल",
+          "option_3": "कबीर",
+          "option_4": "सूरदास",
+          "correct_answer": 3,
+          "category": "कवि पहचानें",
+          "note": "कबीर की प्रसिद्ध साखी।",
+          "source": "https://www.kavitakosh.org/kk/%E0%A4%9D%E0%A5%80%E0%A4%A8%E0%A5%80_%E0%A4%9D%E0%A5%80%E0%A4%A8%E0%A5%80_%E0%A4%AC%E0%A5%80%E0%A4%A8%E0%A5%80_%E0%A4%9A%E0%A4%A6%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE_/_%E0%A4%95%E0%A4%AC%E0%A5%80%E0%A4%B0",
+          "id": 70
+        },
+        {
+          "question": "'भारत भारती' किस कवि का महाकाव्य है?",
+          "option_1": "रामधारी सिंह 'दिनकर'",
+          "option_2": "मैथिलीशरण गुप्त",
+          "option_3": "माखनलाल चतुर्वेदी",
+          "option_4": "अयोध्या सिंह उपाध्याय 'हरिऔध'",
+          "correct_answer": 2,
+          "category": "रचना पहचानें",
+          "note": "मैथिलीशरण गुप्त का प्रसिद्ध राष्ट्रीय महाकाव्य।",
+          "source": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80",
+          "id": 71
+        },
+        {
+          "question": "'कुमारसंभवम्' किस महाकवि की रचना है?",
+          "option_1": "भारवि",
+          "option_2": "माघ",
+          "option_3": "श्रीहर्ष",
+          "option_4": "कालिदास",
+          "correct_answer": 4,
+          "category": "रचना पहचानें",
+          "note": "महाकवि कालिदास का संस्कृत महाकाव्य।",
+          "source": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A4%82%E0%A4%AD%E0%A4%B5%E0%A4%AE%E0%A5%8D",
+          "id": 72
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "questions": [
+        {
+          "question": "\"मन लागो मेरो यार फकीरी में।\nजो सुख पावो राम भजन में, सो सुख नाहिं अमीरी में॥\"\n\nयह साखी किस संत कवि की है?",
+          "option_1": "रैदास",
+          "option_2": "कबीर",
+          "option_3": "दादू दयाल",
+          "option_4": "गुरु नानक",
+          "correct_answer": 2,
+          "category": "कवि पहचानें",
+          "note": "कबीर की प्रसिद्ध साखी।",
+          "source": "https://sarvakosh.com/sukti/man-laago-mero-yaar-phakiri-men-jo-sukh-6aef0fd2e00f94c5d61d5c29",
+          "id": 73
+        },
+        {
+          "question": "\"शांत स्निग्ध, ज्योत्स्ना उज्ज्वल!\nअपलक अनंत, नीरव भू-तल!\"\n\nये पंक्तियाँ किस कवि की हैं?",
+          "option_1": "जयशंकर प्रसाद",
+          "option_2": "महादेवी वर्मा",
+          "option_3": "अज्ञेय",
+          "option_4": "सुमित्रानंदन पंत",
+          "correct_answer": 4,
+          "category": "कवि पहचानें",
+          "note": "सुमित्रानंदन पंत की कविता \"नौका-विहार\"।",
+          "source": "https://www.kavitakosh.org/kk/%E0%A4%A8%E0%A5%8C%E0%A4%95%E0%A4%BE-%E0%A4%B5%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B0_/_%E0%A4%B8%E0%A5%81%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A4%82%E0%A4%A6%E0%A4%A8_%E0%A4%AA%E0%A4%82%E0%A4%A4",
+          "id": 74
+        },
+        {
+          "question": "\"निज भाषा उन्नति अहै, सब उन्नति को मूल।\nबिन निज भाषा-ज्ञान के, मिटत न हिय को सूल॥\"\n\nयह दोहा किसका है?",
+          "option_1": "भारतेंदु हरिश्चंद्र",
+          "option_2": "रहीम",
+          "option_3": "कबीर",
+          "option_4": "मैथिलीशरण गुप्त",
+          "correct_answer": 1,
+          "category": "दोहा पहचानें",
+          "note": "भारतेंदु हरिश्चंद्र का प्रसिद्ध दोहा।",
+          "source": "https://www.kavitakosh.org/kk/%E0%A4%AE%E0%A4%BE%E0%A4%A4%E0%A5%83%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE_%E0%A4%AA%E0%A4%B0_%E0%A4%A6%E0%A5%8B%E0%A4%B9%E0%A5%87_/_%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%81_%E0%A4%B9%E0%A4%B0%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%9A%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0",
+          "id": 75
+        },
+        {
+          "question": "'पृथ्वीराज रासो' किस कवि की रचना मानी जाती है?",
+          "option_1": "वेदव्यास",
+          "option_2": "कालिदास",
+          "option_3": "चंदबरदाई",
+          "option_4": "बाणभट्ट",
+          "correct_answer": 3,
+          "category": "रचना पहचानें",
+          "note": "पृथ्वीराज चौहान के जीवन पर आधारित वीर रस का महाकाव्य।",
+          "source": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%83%E0%A4%A5%E0%A5%8D%E0%A4%B5%E0%A5%80%E0%A4%B0%E0%A4%BE%E0%A4%9C_%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A5%8B",
+          "id": 76
+        },
+        {
+          "question": "'गीतांजलि' किस कवि की प्रसिद्ध रचना है?",
+          "option_1": "रवीन्द्रनाथ ठाकुर",
+          "option_2": "जयशंकर प्रसाद",
+          "option_3": "सुमित्रानंदन पंत",
+          "option_4": "अज्ञेय",
+          "correct_answer": 1,
+          "category": "रचना पहचानें",
+          "note": "रवीन्द्रनाथ ठाकुर का नोबेल-विजेता काव्य संग्रह।",
+          "source": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%80%E0%A4%A4%E0%A4%BE%E0%A4%82%E0%A4%9C%E0%A4%B2%E0%A4%BF",
+          "id": 77
+        },
+        {
+          "question": "'अभिज्ञान शाकुन्तलम्' किस महाकवि का नाटक है?",
+          "option_1": "भवभूति",
+          "option_2": "कालिदास",
+          "option_3": "शूद्रक",
+          "option_4": "बाणभट्ट",
+          "correct_answer": 2,
+          "category": "रचना पहचानें",
+          "note": "महाकवि कालिदास का प्रसिद्ध संस्कृत नाटक।",
+          "source": "https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8_%E0%A4%B6%E0%A4%BE%E0%A4%95%E0%A5%81%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%B2%E0%A4%AE%E0%A5%8D",
+          "id": 78
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "questions": [
+        {
+          "question": "\"गाता प्राणों का तार-तार\nअनुराग भरा उन्माद राग;\"\n\nये पंक्तियाँ किस कवि की हैं?",
+          "option_1": "मीराबाई",
+          "option_2": "महादेवी वर्मा",
+          "option_3": "सुभद्रा कुमारी चौहान",
+          "option_4": "सुमित्रानंदन पंत",
+          "correct_answer": 2,
+          "category": "कवि पहचानें",
+          "note": "महादेवी वर्मा का प्रसिद्ध गीत \"जो तुम आ जाते एक बार\"।",
+          "source": "https://www.hindwi.org/geet/jo-tum-aa-jate-ek-bar-mahadevi-varma-geet",
+          "id": 79
+        },
+        {
+          "question": "\"ऐसी वाणी बोलिए, मन का आपा खोए।\nऔरन को शीतल करे, आपौ शीतल होय॥\"\n\nयह दोहा किसका है?",
+          "option_1": "रहीम",
+          "option_2": "सूरदास",
+          "option_3": "दादू दयाल",
+          "option_4": "कबीर",
+          "correct_answer": 4,
+          "category": "दोहा पहचानें",
+          "note": "कबीर का प्रसिद्ध दोहा।",
+          "source": "https://www.kavitakosh.org/kk/%E0%A4%95%E0%A4%AC%E0%A5%80%E0%A4%B0_%E0%A4%A6%E0%A5%8B%E0%A4%B9%E0%A4%BE%E0%A4%B5%E0%A4%B2%E0%A5%80_/_%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0_%E0%A5%A8",
+          "id": 80
+        },
+        {
+          "question": "'हिमकिरीटिनी' किस कवि की रचना है?",
+          "option_1": "रामधारी सिंह 'दिनकर'",
+          "option_2": "माखनलाल चतुर्वेदी",
+          "option_3": "अयोध्या सिंह उपाध्याय 'हरिऔध'",
+          "option_4": "बालकृष्ण शर्मा 'नवीन'",
+          "correct_answer": 2,
+          "category": "रचना पहचानें",
+          "note": "माखनलाल चतुर्वेदी की प्रसिद्ध रचना।",
+          "source": "https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%96%E0%A4%A8%E0%A4%B2%E0%A4%BE%E0%A4%B2_%E0%A4%9A%E0%A4%A4%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A5%80",
+          "id": 81
+        },
+        {
+          "question": "'रामचरितमानस' किस कवि की रचना है?",
+          "option_1": "सूरदास",
+          "option_2": "वाल्मीकि",
+          "option_3": "तुलसीदास",
+          "option_4": "वेदव्यास",
+          "correct_answer": 3,
+          "category": "रचना पहचानें",
+          "note": "गोस्वामी तुलसीदास का अवधी महाकाव्य।",
+          "source": "https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%9A%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%B8",
+          "id": 82
+        },
+        {
+          "question": "'भारत दुर्दशा' किस लेखक का प्रसिद्ध नाटक है?",
+          "option_1": "भारतेंदु हरिश्चंद्र",
+          "option_2": "जयशंकर प्रसाद",
+          "option_3": "मोहन राकेश",
+          "option_4": "धर्मवीर भारती",
+          "correct_answer": 1,
+          "category": "रचना पहचानें",
+          "note": "भारतेंदु हरिश्चंद्र का प्रसिद्ध व्यंग्य-नाटक।",
+          "source": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%A6%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%A6%E0%A4%B6%E0%A4%BE",
+          "id": 83
+        },
+        {
+          "question": "'ध्रुवस्वामिनी' किस कवि का नाटक है?",
+          "option_1": "भारतेंदु हरिश्चंद्र",
+          "option_2": "रामकुमार वर्मा",
+          "option_3": "जयशंकर प्रसाद",
+          "option_4": "मोहन राकेश",
+          "correct_answer": 3,
+          "category": "रचना पहचानें",
+          "note": "जयशंकर प्रसाद का ऐतिहासिक नाटक।",
+          "source": "https://hi.wikipedia.org/wiki/%E0%A4%A7%E0%A5%8D%E0%A4%B0%E0%A5%81%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%BF%E0%A4%A8%E0%A5%80_%28%E0%A4%A8%E0%A4%BE%E0%A4%9F%E0%A4%95%29",
+          "id": 84
+        }
+      ]
     }
   ]
 }
