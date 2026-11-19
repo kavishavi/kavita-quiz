@@ -1616,6 +1616,545 @@
      "id": 126
     }
    ]
+  },
+  {
+   "date": "2026-11-29",
+   "questions": [
+    {
+     "question": "\"बर्फ़ काटने वाली मशीन से आदमी काटने वाली मशीन तक\nकौंधती हुई अमानवीय चमक के विरुद्ध\nजलते हुए गाँवों के बीच से गुज़रती है मेरी कविता;\"\n\nये पंक्तियाँ किस कवि की हैं?",
+     "option_1": "मंगलेश डबराल",
+     "option_2": "आलोक धन्वा",
+     "option_3": "कुमार विकल",
+     "option_4": "राजेश जोशी",
+     "correct_answer": 2,
+     "category": "कवि पहचानें",
+     "note": "आलोक धन्वा की कविता \"जनता का आदमी\" से।",
+     "source": "https://www.hindwi.org/kavita/janta-ka-adami-alokdhanva-kavita",
+     "id": 127
+    },
+    {
+     "question": "'गबन' किस लेखक का प्रसिद्ध उपन्यास है?",
+     "option_1": "जयशंकर प्रसाद",
+     "option_2": "यशपाल",
+     "option_3": "भगवतीचरण वर्मा",
+     "option_4": "प्रेमचंद",
+     "correct_answer": 4,
+     "category": "रचना पहचानें",
+     "note": "प्रेमचंद का प्रसिद्ध उपन्यास \"गबन\"।",
+     "source": "https://hi.wikipedia.org/wiki/गबन",
+     "id": 128
+    },
+    {
+     "question": "\"काल करे सो आज कर, आज करे सो अब । पल में प्रलय होएगी, बहुरि करेगा कब ॥\"\n\nयह दोहा किसका है?",
+     "option_1": "कबीर",
+     "option_2": "रहीम",
+     "option_3": "तुलसीदास",
+     "option_4": "सूरदास",
+     "correct_answer": 1,
+     "category": "दोहा पहचानें",
+     "note": "कबीर का प्रसिद्ध दोहा।",
+     "source": "https://www.kavitakosh.org/kk/कबीर_दोहावली_/_पृष्ठ_१",
+     "id": 129
+    },
+    {
+     "question": "\"यह एक तस्वीर है\nजिसमें थोड़ा-सा साहस झलकता है\nऔर ग़रीबी ढँकी हुई दिखाई देती है\"\n\nये पंक्तियाँ किस कवि की हैं?",
+     "option_1": "आलोक धन्वा",
+     "option_2": "अशोक वाजपेयी",
+     "option_3": "मंगलेश डबराल",
+     "option_4": "विनोद कुमार शुक्ल",
+     "correct_answer": 3,
+     "category": "कवि पहचानें",
+     "note": "मंगलेश डबराल की कविता \"अपनी तस्वीर\" से।",
+     "source": "https://www.hindwi.org/kavita/apni-taswir-manglesh-dabral-kavita",
+     "id": 130
+    },
+    {
+     "question": "'निर्मला' किस लेखक का प्रसिद्ध उपन्यास है?",
+     "option_1": "राहुल सांकृत्यायन",
+     "option_2": "प्रेमचंद",
+     "option_3": "भीष्म साहनी",
+     "option_4": "यशपाल",
+     "correct_answer": 2,
+     "category": "रचना पहचानें",
+     "note": "प्रेमचंद का उपन्यास \"निर्मला\"।",
+     "source": "https://hi.wikipedia.org/wiki/निर्मला_(उपन्यास)",
+     "id": 131
+    },
+    {
+     "question": "\"सब उधार का, माँगा-चाहा\nनमक-तेल, हींग-हल्दी तक\nसब क़र्ज़े का\"\n\nये पंक्तियाँ किस कवि की हैं?",
+     "option_1": "धूमिल",
+     "option_2": "रामदरश मिश्र",
+     "option_3": "चंद्रकांत देवताले",
+     "option_4": "अरुण कमल",
+     "correct_answer": 4,
+     "category": "कवि पहचानें",
+     "note": "अरुण कमल की कविता \"धार\" से।",
+     "source": "https://www.hindwi.org/kavita/dhaar-arun-kamal-kavita",
+     "id": 132
+    }
+   ]
+  },
+  {
+   "date": "2026-11-30",
+   "questions": [
+    {
+     "question": "\"ज़मीन की भाषा में ज़मीन को। पानी की भाषा में पानी को\nकुछ कहना कितना मुश्किल है\"\n\nये पंक्तियाँ किस कवि की हैं?",
+     "option_1": "लीलाधर जगूड़ी",
+     "option_2": "मंगलेश डबराल",
+     "option_3": "कुंवर नारायण",
+     "option_4": "विनोद कुमार शुक्ल",
+     "correct_answer": 1,
+     "category": "कवि पहचानें",
+     "note": "लीलाधर जगूड़ी की कविता \"बची हुई पृथ्वी\" से।",
+     "source": "https://www.hindwi.org/kavita/bachi-hui-prithwi-leeladhar-jagudi-kavita",
+     "id": 133
+    },
+    {
+     "question": "'स्कंदगुप्त' किस कवि का नाटक है?",
+     "option_1": "भारतेंदु हरिश्चंद्र",
+     "option_2": "महावीर प्रसाद द्विवेदी",
+     "option_3": "जयशंकर प्रसाद",
+     "option_4": "रामधारी सिंह दिनकर",
+     "correct_answer": 3,
+     "category": "रचना पहचानें",
+     "note": "जयशंकर प्रसाद का ऐतिहासिक नाटक \"स्कंदगुप्त\"।",
+     "source": "https://hi.wikipedia.org/wiki/स्कन्दगुप्त_(नाटक)",
+     "id": 134
+    },
+    {
+     "question": "\"जाति न पूछो साधु की, पूछि लीजिए ज्ञान । मोल करो तलवार का, पड़ा रहन दो म्यान ॥\"\n\nयह दोहा किसका है?",
+     "option_1": "रैदास",
+     "option_2": "कबीर",
+     "option_3": "दादू",
+     "option_4": "गुरु नानक",
+     "correct_answer": 2,
+     "category": "दोहा पहचानें",
+     "note": "कबीर का प्रसिद्ध दोहा।",
+     "source": "https://www.kavitakosh.org/kk/कबीर_दोहावली_/_पृष्ठ_१",
+     "id": 135
+    },
+    {
+     "question": "\"किसी लड़की को रिझाने उसके घर के चक्कर काटते\nलड़के की तरह घूमती रहती है मेरे भीतर निरंतर\"\n\nये पंक्तियाँ किस कवि की हैं?",
+     "option_1": "अरुण कमल",
+     "option_2": "आलोक धन्वा",
+     "option_3": "सोम ठाकुर",
+     "option_4": "पवन करण",
+     "correct_answer": 4,
+     "category": "कवि पहचानें",
+     "note": "पवन करण की कविता \"एक ख़ूबसूरत बेटी का पिता\" से।",
+     "source": "https://www.hindwi.org/kavita/ek-khubsurat-beti-ka-pita-pawan-karan-kavita",
+     "id": 136
+    },
+    {
+     "question": "'सेवासदन' किस लेखक का प्रसिद्ध उपन्यास है?",
+     "option_1": "प्रेमचंद",
+     "option_2": "राहुल सांकृत्यायन",
+     "option_3": "धर्मवीर भारती",
+     "option_4": "यशपाल",
+     "correct_answer": 1,
+     "category": "रचना पहचानें",
+     "note": "प्रेमचंद का उपन्यास \"सेवासदन\"।",
+     "source": "https://hi.wikipedia.org/wiki/सेवासदन",
+     "id": 137
+    },
+    {
+     "question": "\"रत्नाकर गर्जन करता है, मलयानिल बहता है।\nहरदम यह हौसला ह्रदय में प्रिये! भरा रहता है।\"\n\nये पंक्तियाँ किस कवि की हैं?",
+     "option_1": "अयोध्या सिंह उपाध्याय हरिऔध",
+     "option_2": "मैथिलीशरण गुप्त",
+     "option_3": "रामनरेश त्रिपाठी",
+     "option_4": "माखनलाल चतुर्वेदी",
+     "correct_answer": 3,
+     "category": "कवि पहचानें",
+     "note": "रामनरेश त्रिपाठी की कविता \"पथिक\" (प्रथम सर्ग) से।",
+     "source": "https://www.hindwi.org/kavita/pathik-ramnaresh-tripathi-kavita",
+     "id": 138
+    }
+   ]
+  },
+  {
+   "date": "2026-12-01",
+   "questions": [
+    {
+     "question": "\"अबूतर और कबूतर\nदोनों सिक्के के दो पहलू\nभेड़िए की मूँछ के दो बाल\nअपने मालिक के पक्के दलाल।\"\n\nये पंक्तियाँ किस कवि की हैं?",
+     "option_1": "काशीनाथ सिंह",
+     "option_2": "विनोद कुमार शुक्ल",
+     "option_3": "मार्कण्डेय",
+     "option_4": "उदय प्रकाश",
+     "correct_answer": 4,
+     "category": "कवि पहचानें",
+     "note": "उदय प्रकाश की कविता \"एक था अबूतर, एक था कबूतर\" से।",
+     "source": "https://www.hindwi.org/kavita/ek-tha-abutar-ek-tha-kabutar-uday-prakash-kavita",
+     "id": 139
+    },
+    {
+     "question": "'अजातशत्रु' किस कवि का ऐतिहासिक नाटक है?",
+     "option_1": "भारतेंदु हरिश्चंद्र",
+     "option_2": "जयशंकर प्रसाद",
+     "option_3": "लक्ष्मीनारायण लाल",
+     "option_4": "मोहन राकेश",
+     "correct_answer": 2,
+     "category": "रचना पहचानें",
+     "note": "जयशंकर प्रसाद का नाटक \"अजातशत्रु\"।",
+     "source": "https://hi.wikipedia.org/wiki/अजातशत्रु_(नाटक)",
+     "id": 140
+    },
+    {
+     "question": "\"मन चंगा तो कठौती में गंगा।\"\n\nयह दोहा किसका है?",
+     "option_1": "कबीर",
+     "option_2": "दादू",
+     "option_3": "रैदास",
+     "option_4": "रहीम",
+     "correct_answer": 3,
+     "category": "दोहा पहचानें",
+     "note": "संत रैदास का प्रसिद्ध दोहा।",
+     "source": "https://www.kavitakosh.org/kk/रैदास_के_दोहे_/_रैदास",
+     "id": 141
+    },
+    {
+     "question": "\"गुलों में रंग भरे बाद-ए-नौ-बहार चले\nचले भी आओ कि गुलशन का कारोबार चले\"\n\nयह शेर किस शायर का है?",
+     "option_1": "फ़ैज़ अहमद फ़ैज़",
+     "option_2": "मज़रूह सुल्तानपुरी",
+     "option_3": "बशीर बद्र",
+     "option_4": "साहिर लुधियानवी",
+     "correct_answer": 1,
+     "category": "कवि पहचानें",
+     "note": "फ़ैज़ अहमद फ़ैज़ की प्रसिद्ध ग़ज़ल का मतला।",
+     "source": "https://www.rekhta.org/ghazals/gulon-men-rang-bhare-baad-e-nau-bahaar-chale-faiz-ahmad-faiz-ghazals?lang=hi",
+     "id": 142
+    },
+    {
+     "question": "'लहर' किस कवि का काव्य संग्रह है?",
+     "option_1": "सूर्यकांत त्रिपाठी निराला",
+     "option_2": "सुमित्रानंदन पंत",
+     "option_3": "महादेवी वर्मा",
+     "option_4": "जयशंकर प्रसाद",
+     "correct_answer": 4,
+     "category": "रचना पहचानें",
+     "note": "जयशंकर प्रसाद का कविता-संग्रह \"लहर\"।",
+     "source": "https://hi.wikipedia.org/wiki/लहर_(कविता-संग्रह)",
+     "id": 143
+    },
+    {
+     "question": "\"कुछ तो मजबूरियाँ रही होंगी\nयूँ कोई बेवफ़ा नहीं होता\"\n\nयह शेर किस शायर का है?",
+     "option_1": "फ़ैज़ अहमद फ़ैज़",
+     "option_2": "बशीर बद्र",
+     "option_3": "मज़रूह सुल्तानपुरी",
+     "option_4": "मिर्ज़ा ग़ालिब",
+     "correct_answer": 2,
+     "category": "कवि पहचानें",
+     "note": "बशीर बद्र का प्रसिद्ध शेर।",
+     "source": "https://www.rekhta.org/couplets/kuchh-to-majbuuriyaan-rahii-hongii-bashir-badr-couplets?lang=hi",
+     "id": 144
+    }
+   ]
+  },
+  {
+   "date": "2026-12-02",
+   "questions": [
+    {
+     "question": "\"मैं अकेला ही चला था जानिब-ए-मंज़िल मगर\nलोग साथ आते गए और कारवाँ बनता गया\"\n\nयह शेर किस शायर का है?",
+     "option_1": "साहिर लुधियानवी",
+     "option_2": "फ़ैज़ अहमद फ़ैज़",
+     "option_3": "मज़रूह सुल्तानपुरी",
+     "option_4": "हसरत मोहानी",
+     "correct_answer": 3,
+     "category": "कवि पहचानें",
+     "note": "मज़रूह सुल्तानपुरी का प्रसिद्ध शेर।",
+     "source": "https://www.rekhta.org/couplets/main-akelaa-hii-chalaa-thaa-jaanib-e-manzil-magar-majrooh-sultanpuri-couplets-1?lang=hi",
+     "id": 145
+    },
+    {
+     "question": "'अनामिका' किस कवि का कविता-संग्रह है?",
+     "option_1": "सूर्यकांत त्रिपाठी निराला",
+     "option_2": "सुमित्रानंदन पंत",
+     "option_3": "जयशंकर प्रसाद",
+     "option_4": "अज्ञेय",
+     "correct_answer": 1,
+     "category": "रचना पहचानें",
+     "note": "निराला का कविता-संग्रह \"अनामिका\"।",
+     "source": "https://hi.wikipedia.org/wiki/अनामिका_(कविता_संग्रह)",
+     "id": 146
+    },
+    {
+     "question": "\"चुपके चुपके रात दिन आँसू बहाना याद है\nहम को अब तक आशिक़ी का वो ज़माना याद है\"\n\nयह शेर किस शायर का है?",
+     "option_1": "अल्लामा इक़बाल",
+     "option_2": "फ़ैज़ अहमद फ़ैज़",
+     "option_3": "बशीर बद्र",
+     "option_4": "हसरत मोहानी",
+     "correct_answer": 4,
+     "category": "कवि पहचानें",
+     "note": "हसरत मोहानी की प्रसिद्ध ग़ज़ल का मतला।",
+     "source": "https://www.rekhta.org/ghazals/chupke-chupke-raat-din-aansuu-bahaanaa-yaad-hai-hasrat-mohani-ghazals?lang=hi",
+     "id": 147
+    },
+    {
+     "question": "'तमस' किस लेखक का प्रसिद्ध उपन्यास है?",
+     "option_1": "यशपाल",
+     "option_2": "भीष्म साहनी",
+     "option_3": "कृष्णा सोबती",
+     "option_4": "अमृता प्रीतम",
+     "correct_answer": 2,
+     "category": "रचना पहचानें",
+     "note": "भीष्म साहनी का प्रसिद्ध उपन्यास \"तमस\"।",
+     "source": "https://hi.wikipedia.org/wiki/तमस_(उपन्यास)",
+     "id": 148
+    },
+    {
+     "question": "\"उनकी आँखों की पहुँच तक ही\nसीमित होती उनकी दुनिया\"\n\nये पंक्तियाँ किस कवि की हैं?",
+     "option_1": "सविता सिंह",
+     "option_2": "कात्यायनी",
+     "option_3": "निर्मला पुतुल",
+     "option_4": "अनामिका",
+     "correct_answer": 3,
+     "category": "कवि पहचानें",
+     "note": "निर्मला पुतुल की कविता \"आदिवासी स्त्रियाँ\" से।",
+     "source": "https://www.hindwi.org/kavita/adiwasi-striyan-nirmala-putul-kavita",
+     "id": 149
+    },
+    {
+     "question": "\"वह ज्ञान जोत सबसे, पहले जगी तुझी में।\nजग जगमगा रहा है, जिसका मिले सहारा॥\"\n\nये पंक्तियाँ किस कवि की हैं?",
+     "option_1": "अयोध्या सिंह उपाध्याय 'हरिऔध'",
+     "option_2": "रामनरेश त्रिपाठी",
+     "option_3": "मैथिलीशरण गुप्त",
+     "option_4": "माखनलाल चतुर्वेदी",
+     "correct_answer": 1,
+     "category": "कवि पहचानें",
+     "note": "हरिऔध की कविता \"भारत\" से।",
+     "source": "https://www.hindwi.org/kavita/bharat-ayodhya-singh-upadhyay-harioudh-kavita",
+     "id": 150
+    }
+   ]
+  },
+  {
+   "date": "2026-12-03",
+   "questions": [
+    {
+     "question": "\"सिमटा पंख साँझ की लाली\nजा बैठा अब तरु शिखरों पर\"\n\nये पंक्तियाँ किस कवि की हैं?",
+     "option_1": "सूर्यकांत त्रिपाठी निराला",
+     "option_2": "सुमित्रानंदन पंत",
+     "option_3": "महादेवी वर्मा",
+     "option_4": "जयशंकर प्रसाद",
+     "correct_answer": 2,
+     "category": "कवि पहचानें",
+     "note": "पंत की कविता \"संध्या के बाद\" से।",
+     "source": "https://www.hindwi.org/kavita/sandhya-ke-baad-sumitranandan-pant-kavita",
+     "id": 151
+    },
+    {
+     "question": "'झूठा सच' किस लेखक का प्रसिद्ध उपन्यास है?",
+     "option_1": "भीष्म साहनी",
+     "option_2": "अमृता प्रीतम",
+     "option_3": "कृष्णा सोबती",
+     "option_4": "यशपाल",
+     "correct_answer": 4,
+     "category": "रचना पहचानें",
+     "note": "यशपाल का प्रसिद्ध उपन्यास \"झूठा सच\"।",
+     "source": "https://hi.wikipedia.org/wiki/झूठा_सच",
+     "id": 152
+    },
+    {
+     "question": "\"इतिहास कहता है\nस्त्री ने नहीं लिखे\nअपनी आत्मा की यात्रा के वृत्तांत\"\n\nये पंक्तियाँ किस कवि की हैं?",
+     "option_1": "सविता सिंह",
+     "option_2": "कात्यायनी",
+     "option_3": "निर्मला पुतुल",
+     "option_4": "ममता कालिया",
+     "correct_answer": 1,
+     "category": "कवि पहचानें",
+     "note": "सविता सिंह की कविता \"सच्ची कविता के लिए\" से।",
+     "source": "https://www.hindwi.org/kavita/sachchi-kawita-ke-liye-savita-singh-kavita",
+     "id": 153
+    },
+    {
+     "question": "'गुनाहों का देवता' किस लेखक का प्रसिद्ध उपन्यास है?",
+     "option_1": "भगवतीचरण वर्मा",
+     "option_2": "प्रेमचंद",
+     "option_3": "धर्मवीर भारती",
+     "option_4": "यशपाल",
+     "correct_answer": 3,
+     "category": "रचना पहचानें",
+     "note": "धर्मवीर भारती का प्रसिद्ध उपन्यास।",
+     "source": "https://hi.wikipedia.org/wiki/गुनाहों_का_देवता",
+     "id": 154
+    },
+    {
+     "question": "\"क़ानून\nसाफ़ गले से बोलता है,\nसंविधान\nएक दार्शनिक चुप्पी में डूबा रहता है\"\n\nये पंक्तियाँ किस कवि की हैं?",
+     "option_1": "सविता सिंह",
+     "option_2": "कात्यायनी",
+     "option_3": "निर्मला पुतुल",
+     "option_4": "चित्रा मुद्गल",
+     "correct_answer": 2,
+     "category": "कवि पहचानें",
+     "note": "कात्यायनी की कविता \"एक ढलती सदी का सच\" से।",
+     "source": "https://www.hindwi.org/kavita/ek-dhalti-sadi-ka-sach-katyayani-kavita",
+     "id": 155
+    },
+    {
+     "question": "\"जहाँ से मिली है कविता\nलौट चलें वहाँ\"\n\nये पंक्तियाँ किस कवि की हैं?",
+     "option_1": "कुंवर नारायण",
+     "option_2": "अशोक वाजपेयी",
+     "option_3": "लीलाधर जगूड़ी",
+     "option_4": "गंगा प्रसाद विमल",
+     "correct_answer": 4,
+     "category": "कवि पहचानें",
+     "note": "गंगा प्रसाद विमल की कविता \"कविता का स्रोत\" से।",
+     "source": "https://www.hindwi.org/kavita/kawita-ka-srot-ganga-prasad-vimal-kavita",
+     "id": 156
+    }
+   ]
+  },
+  {
+   "date": "2026-12-04",
+   "questions": [
+    {
+     "question": "'सूरज का सातवाँ घोड़ा' किस लेखक का प्रसिद्ध उपन्यास है?",
+     "option_1": "धर्मवीर भारती",
+     "option_2": "राहुल सांकृत्यायन",
+     "option_3": "हजारी प्रसाद द्विवेदी",
+     "option_4": "भगवतीचरण वर्मा",
+     "correct_answer": 1,
+     "category": "रचना पहचानें",
+     "note": "धर्मवीर भारती का उपन्यास।",
+     "source": "https://hi.wikipedia.org/wiki/सूरज_का_सातवाँ_घोड़ा",
+     "id": 157
+    },
+    {
+     "question": "\"विजयी विश्व तिरंगा प्यारा झंडा ऊँचा रहे हमारा\"\n\nये पंक्तियाँ किस कवि की हैं?",
+     "option_1": "रामनरेश त्रिपाठी",
+     "option_2": "मैथिलीशरण गुप्त",
+     "option_3": "श्यामलाल गुप्त 'पार्षद'",
+     "option_4": "सोहनलाल द्विवेदी",
+     "correct_answer": 3,
+     "category": "कवि पहचानें",
+     "note": "श्यामलाल गुप्त \"पार्षद\" की प्रसिद्ध कविता \"झंडा ऊँचा रहे हमारा\" से।",
+     "source": "https://www.geeta-kavita.com/poems/bal-kavita/jhanda-ooncha-rahe-hamara-shyamlal-parshad/",
+     "id": 158
+    },
+    {
+     "question": "'चित्रलेखा' किस लेखक का प्रसिद्ध उपन्यास है?",
+     "option_1": "वृंदावनलाल वर्मा",
+     "option_2": "आचार्य चतुर्सेन शास्त्री",
+     "option_3": "धर्मवीर भारती",
+     "option_4": "भगवतीचरण वर्मा",
+     "correct_answer": 4,
+     "category": "रचना पहचानें",
+     "note": "भगवतीचरण वर्मा का प्रसिद्ध उपन्यास \"चित्रलेखा\"।",
+     "source": "https://hi.wikipedia.org/wiki/चित्रलेखा_(उपन्यास)",
+     "id": 159
+    },
+    {
+     "question": "\"हिन्दू लागे देहुरा, मूसलमान मसीति। हम लागे एक अलख सौं, सदा निरंतर प्रीति॥\"\n\nयह दोहा किसका है?",
+     "option_1": "कबीर",
+     "option_2": "दादू दयाल",
+     "option_3": "रैदास",
+     "option_4": "गुरु नानक",
+     "correct_answer": 2,
+     "category": "दोहा पहचानें",
+     "note": "दादू दयाल का प्रसिद्ध दोहा।",
+     "source": "https://www.kavitakosh.org/kk/दोहे_/_दादू_दयाल",
+     "id": 160
+    },
+    {
+     "question": "\"जैसे प्यासी बदली\nनीले अंबर डोले\nदूर कहीं एक दुखियारा\nकहीं पपीहा बोले\"\n\nये पंक्तियाँ किस कवि की हैं?",
+     "option_1": "केहरी सिंह मधुकर",
+     "option_2": "नागार्जुन",
+     "option_3": "केदारनाथ सिंह",
+     "option_4": "त्रिलोचन",
+     "correct_answer": 1,
+     "category": "कवि पहचानें",
+     "note": "केहरी सिंह मधुकर की कविता \"संन्यासी\" से।",
+     "source": "https://www.hindwi.org/kavita/sannyasi-kehri-singh-madhukar-kavita",
+     "id": 161
+    },
+    {
+     "question": "'वोल्गा से गंगा' किस लेखक की प्रसिद्ध कृति है?",
+     "option_1": "हजारी प्रसाद द्विवेदी",
+     "option_2": "आचार्य चतुर्सेन शास्त्री",
+     "option_3": "राहुल सांकृत्यायन",
+     "option_4": "धर्मवीर भारती",
+     "correct_answer": 3,
+     "category": "रचना पहचानें",
+     "note": "राहुल सांकृत्यायन का प्रसिद्ध कहानी-संग्रह।",
+     "source": "https://hi.wikipedia.org/wiki/वोल्गा_से_गंगा",
+     "id": 162
+    }
+   ]
+  },
+  {
+   "date": "2026-12-05",
+   "questions": [
+    {
+     "question": "'रेत समाधि' किस लेखक का प्रसिद्ध उपन्यास है?",
+     "option_1": "कृष्णा सोबती",
+     "option_2": "मृदुला गर्ग",
+     "option_3": "चित्रा मुद्गल",
+     "option_4": "गीतांजलि श्री",
+     "correct_answer": 4,
+     "category": "रचना पहचानें",
+     "note": "गीतांजलि श्री का उपन्यास (अंग्रेज़ी अनुवाद \"Tomb of Sand\" को अंतरराष्ट्रीय बुकर पुरस्कार)।",
+     "source": "https://en.wikipedia.org/wiki/Tomb_of_Sand",
+     "id": 163
+    },
+    {
+     "question": "\"मेरी दुनिया में\nतुम्हारा बराबर आना-जाना\nफिर भी ठीक से पहचान में न आना\"\n\nये पंक्तियाँ किस कवि की हैं?",
+     "option_1": "केदारनाथ सिंह",
+     "option_2": "कुंवर नारायण",
+     "option_3": "अशोक वाजपेयी",
+     "option_4": "मंगलेश डबराल",
+     "correct_answer": 2,
+     "category": "कवि पहचानें",
+     "note": "कुंवर नारायण की कविता \"तुम मेरे हर तरफ़\" से।",
+     "source": "https://www.hindwi.org/kavita/tum-mere-har-taraf-kunwar-narayan-kavita",
+     "id": 164
+    },
+    {
+     "question": "'रघुवंशम्' किस महाकवि का संस्कृत महाकाव्य है?",
+     "option_1": "भास",
+     "option_2": "विशाखदत्त",
+     "option_3": "कालिदास",
+     "option_4": "बाणभट्ट",
+     "correct_answer": 3,
+     "category": "रचना पहचानें",
+     "note": "कालिदास का संस्कृत महाकाव्य \"रघुवंशम्\"।",
+     "source": "https://hi.wikipedia.org/wiki/रघुवंशम्",
+     "id": 165
+    },
+    {
+     "question": "\"कदली सीप भुजंग मुख, स्‍वाति एक गुन तीन।\nजैसी संगति बैठिए, तैसो ही फल दीन।\"\n\nयह दोहा किसका है?",
+     "option_1": "रहीम",
+     "option_2": "कबीर",
+     "option_3": "तुलसीदास",
+     "option_4": "सूरदास",
+     "correct_answer": 1,
+     "category": "दोहा पहचानें",
+     "note": "रहीम का प्रसिद्ध दोहा।",
+     "source": "https://www.kavitakosh.org/kk/रहीम_के_दोहे_/_भाग_२",
+     "id": 166
+    },
+    {
+     "question": "'मुद्राराक्षसम्' किसका प्रसिद्ध संस्कृत नाटक है?",
+     "option_1": "कालिदास",
+     "option_2": "भास",
+     "option_3": "शूद्रक",
+     "option_4": "विशाखदत्त",
+     "correct_answer": 4,
+     "category": "रचना पहचानें",
+     "note": "विशाखदत्त का ऐतिहासिक संस्कृत नाटक।",
+     "source": "https://hi.wikipedia.org/wiki/मुद्राराक्षसम्",
+     "id": 167
+    },
+    {
+     "question": "'स्वप्नवासवदत्तम्' किस महाकवि का संस्कृत नाटक है?",
+     "option_1": "कालिदास",
+     "option_2": "भास",
+     "option_3": "विशाखदत्त",
+     "option_4": "भवभूति",
+     "correct_answer": 2,
+     "category": "रचना पहचानें",
+     "note": "महाकवि भास का प्रसिद्ध नाटक।",
+     "source": "https://hi.wikipedia.org/wiki/स्वप्नवासवदत्तम्",
+     "id": 168
+    }
+   ]
   }
  ]
 }
